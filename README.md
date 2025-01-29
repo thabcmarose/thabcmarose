@@ -11,13 +11,13 @@
 - 🎓 **M.Sc. Control Science & Engineering** (2023–2025) | GPA: 3.8/4.0  
 - 🛠️ Proficient in **MATLAB**, **Python**, **PSIM**, and **PLC Programming**.  
 - 🔬 Passionate about **control system optimization**, **hybrid power systems**, and **industrial automation**.  
-- 🏆 Awarded **Best Graduation Project** and **Outstanding Provincial A-Level Results**.  
+- 🏆 Awarded **Best Graduation Project** and **Outstanding O-Level Results**.  
 
 ---
 
 ### 🚀 **Featured Projects**  
-[![Single-Phase Inverter Control System](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Single-Phase-Inverter-Control-System&theme=dark)](https://github.com/your-username/Single-Phase-Inverter-Control-System)  
-[![Hybrid Power System Analysis](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Hybrid-Power-System-Analysis&theme=dark)](https://github.com/your-username/Hybrid-Power-System-Analysis)  
+[![Single-Phase Inverter Control System](https://github-readme-stats.vercel.app/api/pin/?username=thabcmarose&repo=Single-Phase-Inverter-Control-System&theme=dark)](https://github.com/thabcmarose/Single-Phase-Inverter-Control-System)  
+[![Hybrid Power System Analysis](https://github-readme-stats.vercel.app/api/pin/?username=thabcmarose&repo=Hybrid-Power-System-Analysis&theme=dark)](https://github.com/thabcmarose/Hybrid-Power-System-Analysis)  
 
 ---
 
@@ -29,4 +29,5 @@
 
 ---
 
-📄 [**Resume**](link-to-your-resume.pdf) | 🔗 [**LinkedIn**](your-linkedin-url) | 🏅 [**Google Scholar**](your-scholar-url)
+📄 [**Resume**]([Thabani Resume.pdf](https://github.com/user-attachments/files/18592455/Thabani.Resume.pdf)
+) | 🔗 [**LinkedIn**](www.linkedin.com/in/thabani-tinevimbo-chauke-6627a3282) | 
