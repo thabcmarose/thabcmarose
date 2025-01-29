@@ -4,15 +4,17 @@
 `Automation | Control Systems | Renewable Energy Systems`  
 
 📍 **Jiangsu University of Science and Technology**  
-📧 [thabcmarose@gmail.com](mailto:thabcmarose@gmail.com) | 📱 (+86) 15606104958  
+📧 [thabcmarose@gmail.com](mailto:thabcmarose@gmail.com) | 📱 (+86) 15606104958   | 🔗 [**LinkedIn**](https://www.linkedin.com/in/thabani-tinevimbo-chauke-6627a3282) 
+
 
 ---
 
 ### 🔍 **About Me**  
-- 🎓 **M.Sc. Control Science & Engineering** (2023–2025) | GPA: 3.8/4.0  
+- 🎓 **M.Sc. Control Science & Engineering**          | 2025
+- 🎓 **B.Sc. Electrical Engineering and Automation**  | 2023
 - 🛠️ Proficient in **MATLAB**, **Python**, **PSIM**, and **PLC Programming**.  
 - 🔬 Passionate about **control system optimization**, **hybrid power systems**, and **industrial automation**.  
-- 🏆 Awarded **Best Graduation Project** and **Outstanding Provincial A-Level Results**.  
+- 🏆 Awarded **Best Graduation Project** and **Outstanding Provincial 0-Level Results**.  
 
 ---
 
@@ -35,7 +37,7 @@ meeting expectations.
 ### 💻 **Technical Skills**  
 | **Control Systems**   | **Tools**               | **Programming**       | **Languages**         |  
 |------------------------|-------------------------|------------------------|------------------------|  
-| PID, MPC, MPPT         | MATLAB/Simulink, PSIM   | Python, C/C++          | English (Fluent)       |  
+| PID, MPC, MPPT         | MATLAB/Simulink, PSIM   | Python, C/C++          | English (Fluent) , Shona      |  
 | State-Space Modeling   | PLC (TIA Portal)        | Embedded Systems       | Chinese (Intermediate) |  
 
 ---
